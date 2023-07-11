@@ -12,11 +12,21 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "MyFirstVariable&Sequence_7",
-        "num1&Sequence_7",
-        "num2&Sequence_7"
+        "result&Sequence_2"
       ],
       "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Converter.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "DollarValue",
+        "ConversionRate",
+        "RupeeValue"
+      ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     }
